@@ -1,1 +1,1 @@
-Criação de uma "To do List" para treinar comandos com o Docker.
+Criação de uma "To do List" com intuito de treinar alguns comandos com o Docker.
